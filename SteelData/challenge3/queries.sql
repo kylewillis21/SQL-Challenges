@@ -1,3 +1,4 @@
+-- Challenge found at https://steeldata.org.uk/sql3.html
 -- # 1 What are the names of all the countries in the country table?
 SELECT country_name from country;
 
